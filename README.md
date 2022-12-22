@@ -1,5 +1,7 @@
 **Documentation for calculator on Assembly.**
 
+*Note: This calculator only works with one digit.*
+
 **Step#1:**
 To run the calculator we will use the click on this link: https://www.tutorialspoint.com/compile_assembly_online.php
 
